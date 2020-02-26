@@ -2,4 +2,4 @@
 
 ### Included in this repo:
 - This README file itself
-- Some JavaScript files just covering the basics so I can get comfortable :smile:
+- Some JavaScript files just covering some basics :smile:
